@@ -1,0 +1,19 @@
+# Java
+*.class
+
+# Carpetas de compilación
+bin/
+out/
+target/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
